@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hefecisgar
-- 👀 I’m interested in web development, cibersecurity, football, anime/series/movies/books/etc (I just want to consume a good story).
+- 👀 I’m interested in web development, cibersecurity, football, anime/series/movies/books/etc (I just want to enjoy a good story).
 - 🌱 I’m currently learning django
 - 📫 How to reach me hcistern@dcc.uchile.cl
 
